@@ -1,8 +1,10 @@
 // ***** Question 1 *****
 // *** Uncomment the lines below to test
-// console.log("%cQuestion 1", "color: red") 
+//console.log("%cQuestion 1", "color: red") 
+let counter = 1
 
-// console.log(counter) 
+counter = 2 
+//console.log(counter) 
 // // => 2
 // console.log("%c----------", "color: red") 
 
